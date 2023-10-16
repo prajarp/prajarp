@@ -1,4 +1,6 @@
 ### Hi there 👋
+I like programming :robot:
+I like cats 🐈‍⬛
 
 <!--
 **prajarp/prajarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
